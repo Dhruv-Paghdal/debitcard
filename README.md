@@ -1,3 +1,3 @@
 # debitcard
 
-Debit Card mock up
+* Debit Card mock up using CSS and JS
